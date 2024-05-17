@@ -1,0 +1,37 @@
+@charset "UTF-8";
+body{
+    background-color: #ececec;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table th{
+    background-color: #b5bfd1;
+}
+
+table tr{
+    background-color: #F3F3F3;
+}
+table tr:nth-child(even){
+    background-color: rgb(213, 217, 221);
+}
+table tr:last-child{
+    border: 0;
+    background-color: #ececec;
+}
+
+.remove{
+    margin-left: auto;
+    text-align: left;
+}
+.add{   
+    margin-right: auto;
+    text-align: right;
+}
+.delete{
+    margin: auto;
+    text-align: center;
+}

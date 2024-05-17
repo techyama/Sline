@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+input{
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+}
+
+input[type="submit"]{
+    width: 80px;
+    height: 40px;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+input[type="number"]{
+    width: 60px;
+    height: 10px;
+    font-size: 12px;
+}
+input[type="text"]{
+    width: 100px;
+    height: 12px;
+    font-size: 8px;
+    -webkit-appearance: none;
+}
+.iPhone input[type="radio"]{
+    -webkit-appearance: none;
+    height: 17px;
+    margin: 10px;
+}
+input[type="radio"]{
+    height: 17px;
+    margin: 10px;
+}
+.iPhone button{
+    width: 34px;
+    height: 34px;
+    color: red;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    -webkit-appearance: none;
+}
+.android button{
+    width: 34px;
+    height: 37px;
+    color: red;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+label{
+    font-size: 12px;
+    margin: 5px,0px,5px,0px;
+}
+a{
+    font-size: 18px;
+}
+.sleep-info{
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.main{
+    color: white;
+    text-align: center;
+}
+
+.index_title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    margin-left: 50px;
+}
+
+.logoimg{
+display: flex;
+}
+
+.title{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+.main-img{
+    color: white;
+    text-align: center;
+}
+
+.concentration{
+    font-size: 14px;
+}
+h1{
+    font-size: 24px;
+}
+h2{
+    font-size: 18px;
+}
+h3{
+    font-size: 20px;
+}
+
+span{
+    font-size: 16px;
+}

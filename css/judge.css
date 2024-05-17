@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+body{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+.logoimg{
+    display: flex;
+    }
